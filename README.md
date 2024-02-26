@@ -1,6 +1,6 @@
-# 285X Over Under Code
+# 285X ------- Code
 
-This is team 285X's code for the 2023-24 VRC game, Over Under.
+This is team 285X's code for the 2024-25 VRC game, ____________.
 Here's a brief explanation of the most important files you'll *probably* edit for usage.
 
 ## Accessing the code
