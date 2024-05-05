@@ -1,4 +1,4 @@
-# 285X ------- Code
+# 285X High Stakes Code
 
 This is team 285X's code for the 2024-25 VRC game, ____________.
 Here's a brief explanation of the most important files you'll *probably* edit for usage.
